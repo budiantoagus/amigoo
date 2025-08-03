@@ -1,0 +1,100 @@
+  [
+    {
+        "id": "sriwijaya",
+        "nama": "Sriwijaya",
+        "website_url": "https://sriwijaya.amigoo.id/",
+        "api_url": "https://amigoolombok.sawopos.com/shop/",
+        "show_harga_grosir": false
+    },
+    {
+        "id": "pagesangan",
+        "nama": "Pagesangan",
+        "website_url": "https://pagesangan.amigoo.id/",
+        "api_url": "https://amigoolombok.sawopos.com/shop/",
+        "show_harga_grosir": false
+    },
+    {
+        "id": "rembiga",
+        "nama": "Rembiga",
+        "website_url": "https://rembiga.amigoo.id/",
+        "api_url": "https://amigoolombok.sawopos.com/shop/",
+        "show_harga_grosir": false
+    },
+    {
+        "id": "gianyar",
+        "nama": "Gianyar",
+        "website_url": "https://gianyar.amigoo.id/",
+        "api_url": "https://amigoobali.sawopos.com/shop/",
+        "show_harga_grosir": false
+    },
+    {
+        "id": "denpasar",
+        "nama": "Denpasar",
+        "website_url": "https://denpasar.amigoo.id/",
+        "api_url": "https://amigoobali.sawopos.com/shop/",
+        "show_harga_grosir": false
+    },
+    {
+        "id": "asoy",
+        "nama": "Surabaya",
+        "website_url": "https://surabaya.amigoo.id/",
+        "api_url": "https://asoy.sawopos.com/shop/",
+        "show_harga_grosir": false
+    },
+    {
+        "id": "makassar",
+        "nama": "Makassar",
+        "website_url": "https://makassar.amigoo.id/",
+        "api_url": "https://amigoomakassar.sawopos.com/shop/",
+        "show_harga_grosir": false
+    },
+    {
+        "id": "sudiang",
+        "nama": "Sudiang",
+        "website_url": "https://sudiang.amigoo.id/",
+        "api_url": "https://amigoosudiang.sawopos.com/shop/",
+        "show_harga_grosir": false
+    },
+    {
+        "id": "masbagik",
+        "nama": "Masbagik",
+        "website_url": "https://masbagik.amigoo.id/",
+        "api_url": "https://amigoomasbagik.sawopos.com/shop/",
+        "show_harga_grosir": false
+    },
+    {
+        "id": "lux_bali",
+        "nama": "Lux Bali",
+        "website_url": "https://luxbali.amigoo.id/",
+        "api_url": "https://luxbali.sawopos.com/shop/",
+        "show_harga_grosir": false
+    },
+    {
+        "id": "purademak",
+        "nama": "Pura Demak",
+        "website_url": "https://purademak.amigoo.id/",
+        "api_url": "https://amigoobali.sawopos.com/shop/",
+        "show_harga_grosir": false
+    },
+    {
+        "id": "rarang",
+        "nama": "Rarang",
+        "website_url": "https://rarang.amigoo.id/",
+        "api_url": "https://amigoomasbagik.sawopos.com/shop/",
+        "show_harga_grosir": false
+    },
+    {
+        "id": "abianbase",
+        "nama": "Abian Base",
+        "website_url": "https://abianbase.amigoo.id/",
+        "api_url": "https://amigoo-abianbase-api.accutrax.id/api/sawopos_catalog/",
+        "show_harga_grosir": false
+    },
+     {
+        "id": "jember",
+        "nama": "Jember",
+        "website_url": "https://jember.amigoo.id/",
+        "api_url": "https://amigoo-jember-api.accutrax.id/api/sawopos_catalog/",
+        "show_harga_grosir": false
+    }
+]
